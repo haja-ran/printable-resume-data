@@ -57,7 +57,7 @@ export default {
   ],
 
   profileDescription: [
-    "Frontend Engineer, full-stack developer, lead developer, co-founder, freelancer... My eight years of experience have allowed me to contribute to a wide variety of projects, create advanced web applications (SPA, SSR, API), and deploy numerous marketing websites. 💻",
+    "Frontend Engineer, fullstack developer, lead developer, co-founder, freelancer... My eight years of experience have allowed me to contribute to a wide variety of projects, create advanced web applications (SPA, SSR, API), and deploy numerous marketing websites. 💻",
     "I thrive in the world of Frontend, where I take an interest in Design Ops, UX/UI, and Design Systems. I love designing intuitive and visually appealing interfaces that combine performance and aesthetics. 🎨",
     "I particularly enjoy working with Nuxt as my main stack, although I am also proficient with React (Next) and native JavaScript, with a specialization in Web Components and standard web practices.",
     "I channel my curiosity and creativity by frequently experimenting on CodePen and composing music. 🎶"
@@ -183,7 +183,7 @@ export default {
         date: "January 2022 to April 2023 (part-time)",
         company: "SOFICA",
         city: "Nice",
-        title: "Full-Stack Developer",
+        title: "Fullstack Developer",
         tech: ["Vue.js", "Nuxt.js", "TailwindCSS", "TypeScript", "Node.js"],
         description: [
           "SOFICA, located in Nice and Cagnes-sur-Mer, is a multidisciplinary accounting firm offering services in accounting, payroll management, taxation, legal consulting, wealth management, financial control, real estate accounting, and auditing. It assists businesses in the creation, management, and development of their activities, with a specialization in real estate.",

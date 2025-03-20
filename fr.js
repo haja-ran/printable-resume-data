@@ -57,7 +57,7 @@ export default {
   ],
 
   profileDescription: [
-    "Ingénieur Frontend, développeur full-stack, lead développeur, co-fondateur, freelance... Mes huit années d'expérience m'ont permis de contribuer à une grande variété de projets, de créer des applications web avancées (SPA, SSR, API) et de déployer de nombreux sites marketing. 💻",
+    "Ingénieur frontend, développeur fullstack, lead développeur, co-fondateur, freelance... Mes huit années d'expérience m'ont permis de contribuer à une grande variété de projets, de créer des applications web avancées (SPA, SSR, API) et de déployer de nombreux sites marketing. 💻",
     "Je m'épanouis dans l'univers du Frontend, où je m'intéresse à l'approche Design Ops, l'UX/UI et les Design Systems. J'aime concevoir des interfaces intuitives et visuellement attrayantes, alliant performance et esthétique. 🎨",
     "J'apprécie particulièrement travailler avec Nuxt comme stack principale, bien que je sois également compétent avec React (Next) et JavaScript natif, avec une spécialisation dans les Web Components et les pratiques web standards.",
     "Je canalise ma curiosité et ma créativité en expérimentant fréquemment sur CodePen et en composant de la musique. 🎶"
@@ -188,7 +188,7 @@ export default {
         date: "Janvier 2022 à avril 2023 (temps partiel)",
         company: "SOFICA",
         city: "Nice",
-        title: "Développeur full-stack",
+        title: "Développeur fullstack",
         tech: ["Vue.js", "Nuxt.js", "TailwindCSS", "TypeScript", "Node.js"],
         description: [
           "Le cabinet SOFICA, situé à Nice et Cagnes-sur-Mer, est un expert-comptable pluridisciplinaire offrant des services en comptabilité, gestion sociale, fiscalité, conseil juridique, gestion de patrimoine, contrôle de gestion, comptabilité immobilière et audit. Il accompagne les entreprises dans la création, la gestion et le développement de leurs activités, avec une spécialisation dans l'immobilier.",
