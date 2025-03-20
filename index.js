@@ -1,3 +1,14 @@
+import {
+  Mail,
+  Linkedin,
+  Github,
+  Codepen,
+  PhoneCall,
+  Printer,
+  MapPin,
+  Link
+} from "https://cdn.jsdelivr.net/npm/lucide-vue-next@0.483.0/+esm";
+
 export default {
   portrait:
     "https://res.cloudinary.com/dhpaysqxb/image/upload/v1742396377/1731673737-9242a08cb0e5c60ec9b0d29df1d1103b-1-EDIT_1_t2n5s8.jpg",
