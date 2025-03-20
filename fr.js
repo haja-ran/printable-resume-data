@@ -81,8 +81,8 @@ export default {
           l’édition de logiciels et services professionnels. J'ai rejoint l’équipe lab pour bâtir 
           un Design System multi-framework unifiant les marques du groupe. Pensé avec une approche Design Ops 
           et un souci d’accessibilité, ce Design System utilise des Web Components (Lit Element), 
-          enveloppés dans des composants Vue et React, offrant ainsi flexibilité, robustesse et adaptabilité
-          A cours de cette mission, j'ai également participé à la mise place d'un microfrontend pour la business unit Red-on-line
+          enveloppés dans des composants Vue et React, offrant ainsi flexibilité, robustesse et adaptabilité.
+          Au cours de cette mission, j'ai également participé à la mise place d'un microfrontend pour la business unit Red-on-line
           (legaltech) utilisant le nouveau design system Cobalt.
           `
         ],
