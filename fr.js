@@ -369,7 +369,6 @@ export default {
 
   education: {
     label: "Education",
-
     value: [
       {
         date: "2012 - 2017",
@@ -387,7 +386,7 @@ export default {
   },
 
   referals: {
-    label: "Références",
+    label: "Recommendations",
     value: [
       {
         title: "CTO",
