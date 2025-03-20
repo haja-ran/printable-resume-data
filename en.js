@@ -64,7 +64,8 @@ export default {
   ],
 
   experiences: {
-    label: "Expériences",
+    label: "Experience",
+
     value: [
       {
         tags: ["Freelance"],
@@ -376,6 +377,7 @@ export default {
 
   referals: {
     label: "Recommendations",
+
     value: [
       {
         title: "CTO",
